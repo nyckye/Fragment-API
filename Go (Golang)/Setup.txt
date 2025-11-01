@@ -1,0 +1,8 @@
+# Установка:
+
+go get github.com/xssnick/tonutils-go
+go get github.com/xssnick/tonutils-go/ton
+go get github.com/xssnick/tonutils-go/ton/wallet
+
+# Запуск:
+go run fragment.go
