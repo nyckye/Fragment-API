@@ -1,6 +1,7 @@
 # 🌟 Fragment API — Система API для интеграций в ваши проекты.
 
 [![Status](https://img.shields.io/badge/status-stable-brightgreen?style=for-the-badge)]()
+[![GitHub release](https://img.shields.io/github/v/release/nyckye/Fragment-API?style=for-the-badge)]()
 [![Languages](https://img.shields.io/badge/languages-7-blue?style=for-the-badge)]()
 [![License](https://img.shields.io/badge/license-MIT-purple?style=for-the-badge)]()
 [![Team](https://img.shields.io/badge/team-ScriptCode_Team-black?style=for-the-badge)]()
