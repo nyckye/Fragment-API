@@ -69,7 +69,7 @@
 
 ## 🧰 Установка: 
 ```
-git clone https://github.com/nyckye/fragment-api.git
+https://github.com/nyckye/Fragment-API.git
 ```
 ## 🔒 Безопасность
 
