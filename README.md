@@ -89,6 +89,7 @@ https://github.com/nyckye/Fragment-API.git
 -  Добавлены реализации для всех 7 языков  
   (Python, JavaScript (Node.js), C#, C++, Go, Rust, PHP, TypeScript)
 -  Оптимизирована работа с Fragment API
+-  Добавлен модуль SDK, для быстрого подключения
 -  Добавлена поддержка TON Wallet V5R1
 -  Исправлены ошибки декодирования payload
 -  Обновлена структура проекта и конфигурация
